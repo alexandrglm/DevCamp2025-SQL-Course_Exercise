@@ -58,6 +58,7 @@ MySQL-Workbench 8.0
 | File | Description |
 |------|--------------|
 | `02_01_INSERT_Data.sql` | Inserts sample data: 10 students, 5 professors, 8 courses, and ~30 grades. |
+
 ![](./img/02-INSERTs.png)
 ---
 
@@ -111,7 +112,8 @@ MySQL-Workbench 8.0
 
 ![](./img/03-05_01-COMMONs-simple_LIMIT-1png.png)
 
-
+| File | Description |
+|------|--------------|
 | `03_05_02-COUNT_Professors-Students_commons_MAX-HAVING-SUBQUERY.sql` | Returns all pairs tied for the maximum using a `HAVING COUNT() = MAX(...)` subquery. |
 
 ![](./img/03-05_02-COMMONs-MAX-HAVING-SUBQUERY.png)
